@@ -1,4 +1,4 @@
-# Title Password Generator
+ Password Generator
 
 It is a page that generate a random password using upper lower case letters, numbers and special characters. I used javascrpit to do this assignment.
 
