@@ -40,6 +40,7 @@ HTML, CSS JAVASCRIPT
 
 To run test, run the following commands:
 
+https://neoblack91.github.io/password-generator-/
 
 
 
